@@ -23,7 +23,7 @@ We do not support Markdown’s typical double-space to generate a line break due
 
 1. Item
 2. Item
-
+//
 
 1. Item
 2. Item
@@ -37,11 +37,11 @@ We do not support Markdown’s typical double-space to generate a line break due
 > * List
 
 Begin each line with
-  two spaces or more to
-  make text look
-  e x a c t l y
-  like you type i
-  t.
+   two spaces or more to
+   make text look
+   e x a c t l y
+   like you type i
+   t.
 
  `This is code`
 
